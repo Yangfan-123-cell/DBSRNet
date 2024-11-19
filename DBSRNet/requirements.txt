@@ -1,0 +1,12 @@
+tqdm
+opencv-python
+torchvision==0.11.1
+timm==0.5.4
+pytorch==1.10.0
+scipy==1.7.3
+numpy==1.21.2
+utils==1.0.2
+
+https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-rsb-weights/resnet50_a1_0-14fe96d1.pth
+
+home/dell/.cache/torch/hub/checkpoints/resnet50_a1_0-14fe96d1.pth

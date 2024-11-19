@@ -1,0 +1,28 @@
+------------ Options -------------
+T_max: 50
+batch_size: 8
+checkpoints_dir: checkpoints
+ckpt: checkpoints
+crop_size: 224
+eta_min: 0
+is_train: True
+learning_rate: 0.0001
+load_epoch: -1
+n_ensemble: 20
+n_epoch: 201
+name: ahiq_pipal
+num_avg_val: 5
+num_crop: 1
+num_workers: 0
+patch_size: 16
+save_interval: 2
+seed: 1919
+train_dis_lbp_path: E:\Code\QADS\super-resolved_images\
+train_dis_structure_path: E:\Code\QADS\super-resolved_images\
+train_list: E:\Code\QADS\train-scores.txt
+val_dis_lbp_path: E:\Code\QADS\super-resolved_images\
+val_dis_structure_path: E:\Code\QADS\super-resolved_images\
+val_freq: 1
+val_list: E:\Code\QADS\test-scores.txt
+weight_decay: 1e-05
+-------------- End ----------------

@@ -1,0 +1,674 @@
+[20241107 22:04:51 INFO    ] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-rsb-weights/resnet50_a1_0-14fe96d1.pth)
+[20241107 22:04:54 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:54 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:54 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:54 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:54 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:54 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:54 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:54 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:54 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:54 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:55 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:55 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:55 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:55 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:55 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:55 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:55 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:56 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:56 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:56 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:56 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:56 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:56 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:56 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:56 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:56 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:56 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:57 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:57 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:57 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:57 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:57 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:57 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:57 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:57 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:57 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:57 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:58 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:58 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:58 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:58 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:58 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:58 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:58 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:59 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:59 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:59 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:59 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:59 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:04:59 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:04:59 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:04:59 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:04:59 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:04:59 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:00 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:00 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:00 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:00 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:00 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:00 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:00 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:00 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:00 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:00 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:01 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:01 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:01 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:01 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:01 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:01 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:01 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:01 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:01 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:01 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:02 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:02 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:02 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:02 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:02 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:02 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:02 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:02 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:02 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:02 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:03 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:03 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:03 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:03 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:03 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:03 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:03 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:04 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:04 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:04 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:04 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:04 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:04 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:04 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:04 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:04 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:04 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:05 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:05 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:05 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:05 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:05 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:05 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:05 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:05 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:05 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:05 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:06 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:06 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:06 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:06 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:06 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:06 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:06 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:06 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:06 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:06 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:07 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:07 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:07 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:07 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:07 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:08 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:08 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:08 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:08 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:08 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:08 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:08 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:08 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:08 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:08 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:09 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:09 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:09 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:09 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:09 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:09 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:09 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:09 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:09 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:09 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:10 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:10 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:10 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:10 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:10 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:10 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:10 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:10 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:10 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:10 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:11 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:11 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:11 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:11 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:11 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:11 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:11 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:11 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:11 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:11 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:12 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:12 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:12 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:12 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:12 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:13 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:13 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:13 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:13 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:13 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:13 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:13 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:13 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:13 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:13 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:14 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:14 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:14 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:14 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:14 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:14 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:14 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:14 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:14 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:14 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:15 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:15 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:15 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:15 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:15 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:15 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:15 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:15 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:15 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:15 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:16 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:16 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:16 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:16 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:16 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:16 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:16 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:16 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:16 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:16 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:17 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:17 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:17 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:17 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:17 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:17 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:17 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:17 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:17 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:17 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:18 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:18 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:18 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:18 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:18 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:18 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:18 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:18 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:18 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:18 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:19 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:19 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:19 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:19 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:19 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:19 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:19 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:19 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:19 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:19 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:20 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:20 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:20 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:20 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:20 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:20 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:20 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:20 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:20 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:20 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:21 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:21 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:21 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:21 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:21 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:21 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:21 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:21 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:21 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:21 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:22 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:22 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:22 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:22 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:22 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:22 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:22 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:22 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:22 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:22 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:23 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:23 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:23 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:23 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:23 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:23 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:23 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:23 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:23 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:23 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:24 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:24 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:24 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:24 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:24 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:24 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:24 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:24 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:24 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:24 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:25 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:25 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:25 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:25 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:25 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:25 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:25 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:25 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:25 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:25 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:26 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:26 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:26 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:26 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:26 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:26 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:26 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:26 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:26 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:26 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:27 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:27 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:27 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:27 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:27 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:27 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:27 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:27 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:27 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:27 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:28 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:28 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:28 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:28 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:28 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:29 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:29 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:29 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:29 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:29 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:29 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:29 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:29 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:29 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:29 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:30 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:30 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:30 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:30 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:30 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:30 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:30 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:30 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:30 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:30 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:31 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:31 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:31 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:31 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:31 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:31 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:31 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:31 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:31 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:31 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:32 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:32 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:32 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:32 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:32 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:32 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:32 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:32 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:32 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:32 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:33 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:33 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:33 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:33 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:33 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:33 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:33 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:33 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:33 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:33 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:34 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:34 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:34 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:34 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:34 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:34 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:34 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:34 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:34 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:34 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:35 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:35 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:35 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:35 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:35 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:35 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:35 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:35 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:35 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:35 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:36 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:36 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:36 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:36 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:36 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:36 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:36 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:36 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:36 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:36 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:37 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:37 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:37 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:37 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:37 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:37 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:37 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:37 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:37 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:37 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:38 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:38 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:38 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:38 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:38 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:39 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:39 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:39 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:39 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:39 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:39 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:39 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:39 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:39 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:39 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:40 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:40 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:40 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:40 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:40 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:40 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:40 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:40 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:40 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:40 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:41 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:41 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:41 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:41 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:41 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:41 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:41 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:41 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:41 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:41 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:42 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:42 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:42 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:42 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:42 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:42 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:42 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:42 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:42 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:42 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:43 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:43 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:43 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:43 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:43 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:43 INFO    ] train epoch:1 / loss:0.04047 / SRCC:0.707 / PLCC:0.6885 / RMSE:0.2012 / KROCC:0.5261
+[20241107 22:05:44 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:44 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:44 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:44 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:44 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:44 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:44 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:44 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:44 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:44 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:45 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:45 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:45 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:45 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:45 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:45 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:45 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:46 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:46 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:46 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:46 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:46 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:46 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:46 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:46 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:46 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:46 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:47 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:47 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:47 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:47 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:47 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:47 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:47 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:47 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:47 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:47 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:48 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:48 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:48 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:48 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:48 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:48 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:48 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:49 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:49 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:49 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:49 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:49 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
+[20241107 22:05:49 WARNING ] Unsupported operator aten::sigmoid encountered 1 time(s)
+[20241107 22:05:49 WARNING ] Unsupported operator aten::mul encountered 1 time(s)
+[20241107 22:05:49 WARNING ] Unsupported operator aten::sum encountered 4 time(s)
+[20241107 22:05:49 WARNING ] Unsupported operator aten::div encountered 1 time(s)
+[20241107 22:05:49 WARNING ] The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+linear, linear.0, linear.1, linear.2, linear.3, linear.4, linear.5, maxpool
