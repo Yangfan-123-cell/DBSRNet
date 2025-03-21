@@ -15,8 +15,7 @@ Our approach includes:
 Experimental results show that DBSRNet significantly outperforms state-of-the-art methods in terms of prediction accuracy on all SR-IQA datasets.
 
 ## Framework
-
-![DBSRNet Framework](assets/framework.png)
+![DBSRNet Framework](DBSRNet/framework.png)
 
 ## Installation
 
