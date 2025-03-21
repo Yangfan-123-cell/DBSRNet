@@ -37,13 +37,14 @@ Run the training script with default parameters:
 
 ```bash
 python train.py
-`
-You can also train by downloading the pre-trained models：
+```
 
+You can also train by downloading the pre-trained models:
 ```bash
-module dbsrnet.pth
-`
-### Training Parameters
+dbsrnet.pth
+```
+
+## Training Parameters
 
 The default training configuration in `train.py`:
 
